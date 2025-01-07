@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  simple:
+  - apiVersion: v2
+    appVersion: 1.1.2
+    created: "2025-01-07T21:10:15.843950075Z"
+    description: A Helm chart for Kubernetes
+    digest: f8d76c8ee0f51e269070150d128d37b7c87f52c25fc035cbaa7acf0d485d2744
+    name: simple
+    type: application
+    urls:
+    - simple-0.2.0.tgz
+    version: 0.2.0
+generated: "2025-01-07T21:10:15.843960434Z"
