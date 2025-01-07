@@ -2,5 +2,5 @@
 
 List of charts:
 - simple
-- even simpler
-- chart3
+- even simpler (fixed)
+- chart3 (fixed)
