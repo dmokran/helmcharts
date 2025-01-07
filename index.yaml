@@ -3,6 +3,16 @@ entries:
   chart3:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2025-01-07T22:04:10.925525947Z"
+    description: A Helm chart for Kubernetes
+    digest: 35913412fb65407a2cff5b02502cfb4a224c35fb86881f1ab08015b907a71e62
+    name: chart3
+    type: application
+    urls:
+    - chart3-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2025-01-07T21:31:37.109041507Z"
     description: A Helm chart for Kubernetes
     digest: 19e2828cf51a818d1f562acb15eb00874b9f5e32a37c4abefe6679ea271210d7
@@ -12,6 +22,16 @@ entries:
     - chart3-0.1.0.tgz
     version: 0.1.0
   even-simpler:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-01-07T22:04:11.086521608Z"
+    description: A Helm chart for Kubernetes
+    digest: 213daf0f29ef45433f36be8370a91c8a6e74b65c42f5e6cf68acb755f41623af
+    name: even-simpler
+    type: application
+    urls:
+    - even-simpler-0.2.1.tgz
+    version: 0.2.1
   - apiVersion: v2
     appVersion: 1.0.0
     created: "2025-01-07T21:24:24.262453643Z"
@@ -33,4 +53,4 @@ entries:
     urls:
     - simple-0.2.0.tgz
     version: 0.2.0
-generated: "2025-01-07T21:31:37.1090482Z"
+generated: "2025-01-07T22:04:11.086535534Z"
