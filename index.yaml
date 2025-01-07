@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  even-simpler:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-01-07T21:24:24.262453643Z"
+    description: A Helm chart for Kubernetes
+    digest: 24361a4cd713f57a1777bd1f56a6934d5cf13926df024fb8defe2419d032ac78
+    name: even-simpler
+    type: application
+    urls:
+    - even-simpler-0.1.0.tgz
+    version: 0.1.0
   simple:
   - apiVersion: v2
     appVersion: 1.1.2
@@ -11,4 +22,4 @@ entries:
     urls:
     - simple-0.2.0.tgz
     version: 0.2.0
-generated: "2025-01-07T21:10:15.843960434Z"
+generated: "2025-01-07T21:24:24.262464934Z"
